@@ -18,8 +18,6 @@
 //= require waypoints.min
 //= require jquery.magnific-popup.min
 //= require scripts
-//= require placeholder
-
 
 //= require rails-ujs
 //= require activestorage
